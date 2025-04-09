@@ -16,7 +16,7 @@ This project is a comprehensive relational database system designed for managing
 - `ERD_Conceptual.drawio` — Conceptual ERD
 - `ERD_Logical.drawio` — Logical ERD
 - `CREATE_AND_INSERT.sql` — Schema + sample data
-- `select_all_output.docx` — Output from key queries
+- `select_all_output.pdf` — Output from key queries
 
 ## Tools Used
 
