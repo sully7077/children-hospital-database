@@ -25,7 +25,7 @@ This project is a comprehensive relational database system designed for managing
 - draw.io (for ERD design)
 - Microsoft Word + Excel
 
-## 👥 Team Members
+## Team Members
 
 - Steven Sullivan  
 - Astrid Ellis  
